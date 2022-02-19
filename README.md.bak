@@ -6,7 +6,6 @@
 3.可在脚本内直接填写账号密码  
 4.Python 和需要模块都装好了直接在目录 cmd 运行所要运行的脚本。  
 
-
 # Github Actions说明
 ## 一、Fork此仓库
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
